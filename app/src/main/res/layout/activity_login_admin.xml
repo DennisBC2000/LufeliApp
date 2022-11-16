@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginAdminActivity">
+
+    <TextView
+        android:id="@+id/textobienvenido"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/aclonica"
+        android:text="¡BIENVENIDO!"
+        android:textAlignment="center"
+        android:textColor="#8E582C"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/texto1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:fontFamily="@font/aclonica"
+        android:text="INICIAR SESIÓN"
+        android:layout_below="@+id/textobienvenido"
+        android:textAlignment="center"
+        android:textColor="#8E582C"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/imagen1"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_below="@+id/texto1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="8dp"
+        android:src="@drawable/locksmith" />
+
+    <EditText
+        android:id="@+id/numeroadmin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imagen1"
+        android:layout_margin="20dp"
+        android:hint="Ingrese su número celular"
+        android:background="@drawable/textos"
+        android:padding="10dp"
+        android:inputType="number"
+        android:textStyle="bold"
+        android:textSize="18dp"/>
+
+    <EditText
+        android:id="@+id/codigoadmin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imagen1"
+        android:layout_margin="20dp"
+        android:hint="Ingrese el código personal"
+        android:background="@drawable/textos"
+        android:padding="10dp"
+        android:inputType="numberPassword"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/enviarnumeroadmin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/numeroadmin"
+        android:layout_marginStart="22dp"
+        android:layout_marginTop="22dp"
+        android:layout_marginEnd="22dp"
+        android:layout_marginBottom="22dp"
+        android:backgroundTint="#8E582C"
+        android:text="SIGUIENTE"
+        android:textColor="@color/white"
+        android:textSize="16dp"
+        app:cornerRadius="20dp" />
+
+    <Button
+        android:id="@+id/enviarcodigoadmin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/codigoadmin"
+        android:layout_marginStart="22dp"
+        android:layout_marginTop="22dp"
+        android:layout_marginEnd="22dp"
+        android:layout_marginBottom="22dp"
+        android:backgroundTint="#8E582C"
+        android:text="CONFIRMAR"
+        android:textColor="@color/white"
+        android:textSize="16dp"
+        android:visibility="gone"
+        app:cornerRadius="20dp" />
+
+    <TextView
+        android:id="@+id/texto2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/contacto"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="@font/aclonica"
+        android:text="SI TIENE PROBLEMAS AL INICIAR SESIÓN"
+        android:textAlignment="center"
+        android:textColor="#8E582C"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/contacto"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="22dp"
+        android:layout_marginTop="22dp"
+        android:layout_marginEnd="22dp"
+        android:layout_marginBottom="22dp"
+        android:backgroundTint="#FFFFFF"
+        android:text="Contactarse con el soporte"
+        android:textColor="@color/black"
+        android:textSize="16dp"
+        app:cornerRadius="20dp"></Button>
+
+</RelativeLayout>

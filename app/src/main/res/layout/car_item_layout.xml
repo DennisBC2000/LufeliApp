@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_margin="10dp"
+    android:background="@drawable/textos"
+    app:cardMaxElevation="15dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:background="#8E582C">
+
+        <TextView
+            android:id="@+id/car_producto_nombre"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="Nombre del Porducto"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/car_producto_cantidad"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:text="Cantidad"
+            android:layout_marginLeft="5dp"
+            android:textColor="#FFFFFF"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="5dp"/>
+
+        <TextView
+            android:id="@+id/car_producto_precio"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Precio"
+            android:layout_marginLeft="5dp"
+            android:textColor="#FFFFFF"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="5dp"
+            android:layout_below="@+id/car_producto_cantidad"
+            android:gravity="center"
+            android:layout_marginTop="10dp"/>
+
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

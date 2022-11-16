@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/fragmentUno"
+        android:title="Añadir Producto"
+        android:icon="@drawable/carritoadd"/>
+
+    <item
+        android:id="@+id/fragmentDos"
+        android:title="Editar/Eliminar"
+        android:icon="@drawable/ic_table"/>
+
+    <item
+        android:id="@+id/fragmentCuatro"
+        android:title="Inventario"
+        android:icon="@drawable/added"/>
+
+    <item
+        android:id="@+id/cerrarSesion"
+        android:title="Cerrar Sesión"
+        android:icon="@drawable/cerraradmin"/>
+
+
+</menu>

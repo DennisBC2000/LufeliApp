@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_carrito"
+            android:icon="@drawable/carrito"
+            android:title="Carrito"
+            />
+
+        <item
+            android:id="@+id/nav_mapa"
+            android:icon="@drawable/mapalufeli"
+            android:title="Nuestro Local"
+            />
+
+        <item
+            android:id="@+id/atencion_cliente"
+            android:icon="@drawable/telefono"
+            android:title="Atención al Cliente"
+            />
+
+        <item
+            android:id="@+id/facebook"
+            android:icon="@drawable/facebook"
+            android:title="Síguenos en Facebook"
+            />
+
+    </group>
+</menu>

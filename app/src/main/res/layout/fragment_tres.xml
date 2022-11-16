@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".FragmentTres">
+
+    <TextView
+        android:id="@+id/aencabezado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PERFIL"
+        android:layout_centerHorizontal="true"
+        android:textAlignment="center"
+        android:background="#8E582C"
+        android:textColor="@color/white"
+        android:padding="15dp"
+        android:textStyle="bold|italic"/>
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/perfila_imagen"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/logouser"
+        android:layout_below="@+id/aencabezado"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"/>
+
+    <EditText
+        android:id="@+id/perfila_nombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/perfila_imagen"
+        android:background="@drawable/textos"
+        android:layout_margin="20dp"
+        android:padding="10dp"
+        android:hint="Ingrese su nombre"
+        android:inputType="text"/>
+
+    <EditText
+        android:id="@+id/perfila_cedula"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/perfila_nombre"
+        android:background="@drawable/textos"
+        android:layout_margin="20dp"
+        android:padding="10dp"
+        android:hint="Ingrese su número de cédula"
+        android:inputType="number"/>
+
+    <Button
+        android:id="@+id/perfila_boton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/perfila_cedula"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="20dp"
+        android:backgroundTint="#8E582C"
+        android:padding="10dp"
+        android:text="Guardar Cambios"
+        android:textSize="15dp"
+        app:cornerRadius="20dp" />
+</RelativeLayout>

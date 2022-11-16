@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli App/Lufeli App/app/src/main/res/layout/activity_admin.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli App/Lufeli App/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli App/Lufeli App/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli App/Lufeli App/app/src/main/res/layout/activity_login_admin.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli App/Lufeli App/app/src/main/res/layout/activity_principal.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli App/Lufeli App/app/src/main/res/layout/app_layout_principal.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli App/app/src/main/res/layout/activity_admin.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli App/app/src/main/res/layout/activity_agregarproducto.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli App/app/src/main/res/layout/activity_carrito.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli App/app/src/main/res/layout/activity_confirmar_ordenactivity.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli App/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli App/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli App/app/src/main/res/layout/activity_login_admin.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli App/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli App/app/src/main/res/layout/activity_mapa.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli App/app/src/main/res/layout/activity_perfil.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli App/app/src/main/res/layout/activity_principal.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli App/app/src/main/res/layout/activity_producto_detalles.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli App/app/src/main/res/layout/activity_setup_admin.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli App/app/src/main/res/layout/car_item_layout.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli App/app/src/main/res/layout/contenido_principal.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli App/app/src/main/res/layout/fragment_cuatro.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli App/app/src/main/res/layout/fragment_productos.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli App/app/src/main/res/layout/fragment_uno.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli App/app/src/main/res/layout/productos_item_layout.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli App/app/src/main/res/menu/activity_principal_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/drawable/botones1.xml" value="0.2265" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/drawable/botones2.xml" value="0.2265" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/drawable/estilo_boton_derecho.xml" value="0.1935" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/drawable/textos.xml" value="0.2265" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/activity_admin.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/activity_agregarproducto.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/activity_amin.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/activity_carrito.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/activity_confirmar_ordenactivity.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/activity_home.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/activity_login_admin.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/activity_main.xml" value="0.1947449768160742" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/activity_mapa.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/activity_mapa_ubicacion.xml" value="0.2359375" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/activity_perfil.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/activity_principal.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/activity_producto_detalles.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/activity_setup.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/activity_setup_admin.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/activity_splash.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/app_bar_principal.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/app_layout_principal.xml" value="0.1983695652173913" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/car_item_layout.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/contenido_principal.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/fragment_cuatro.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/fragment_dos.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/fragment_productos.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/fragment_tres.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/fragment_uno.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/nav_header_principal.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/producto_item_layout.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/layout/productos_item_layout.xml" value="0.2" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/menu/activity_principal_drawer.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/menu/menu_button.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Lufeli/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1935" />
+        <entry key="..\:/Users/ramie/Desktop/11 - 04 -2022/Lufeli/app/src/main/res/layout/activity_admin.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ramie/Desktop/11 - 04 -2022/Lufeli/app/src/main/res/layout/activity_agregarproducto.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ramie/Desktop/11 - 04 -2022/Lufeli/app/src/main/res/layout/activity_carrito.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ramie/Desktop/11 - 04 -2022/Lufeli/app/src/main/res/layout/activity_confirmar_ordenactivity.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ramie/Desktop/11 - 04 -2022/Lufeli/app/src/main/res/layout/activity_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ramie/Desktop/11 - 04 -2022/Lufeli/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ramie/Desktop/11 - 04 -2022/Lufeli/app/src/main/res/layout/activity_login_admin.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ramie/Desktop/11 - 04 -2022/Lufeli/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ramie/Desktop/11 - 04 -2022/Lufeli/app/src/main/res/layout/activity_mapa.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ramie/Desktop/11 - 04 -2022/Lufeli/app/src/main/res/layout/activity_perfil.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ramie/Desktop/11 - 04 -2022/Lufeli/app/src/main/res/layout/activity_principal.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ramie/Desktop/11 - 04 -2022/Lufeli/app/src/main/res/layout/activity_producto_detalles.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ramie/Desktop/11 - 04 -2022/Lufeli/app/src/main/res/layout/activity_setup.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ramie/Desktop/11 - 04 -2022/Lufeli/app/src/main/res/layout/activity_setup_admin.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ramie/Desktop/11 - 04 -2022/Lufeli/app/src/main/res/layout/app_layout_principal.xml" value="0.5" />
+        <entry key="..\:/Users/ramie/Desktop/11 - 04 -2022/Lufeli/app/src/main/res/layout/car_item_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ramie/Desktop/11 - 04 -2022/Lufeli/app/src/main/res/layout/contenido_principal.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ramie/Desktop/11 - 04 -2022/Lufeli/app/src/main/res/layout/fragment_cuatro.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ramie/Desktop/11 - 04 -2022/Lufeli/app/src/main/res/layout/fragment_dos.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ramie/Desktop/11 - 04 -2022/Lufeli/app/src/main/res/layout/fragment_productos.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ramie/Desktop/11 - 04 -2022/Lufeli/app/src/main/res/layout/fragment_tres.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ramie/Desktop/11 - 04 -2022/Lufeli/app/src/main/res/layout/fragment_uno.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ramie/Desktop/11 - 04 -2022/Lufeli/app/src/main/res/layout/nav_header_principal.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ramie/Desktop/11 - 04 -2022/Lufeli/app/src/main/res/layout/productos_item_layout.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
